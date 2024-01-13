@@ -1,0 +1,50 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.banner {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.sale {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 48;
+}
+
+.sale-2 {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.sale-3 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+.nw-photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.t-image{
+    background-image: url('../Assignment/resourses/Vectorrr.png');
+    background-repeat: no-repeat; 
+    background-position: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.text{
+    padding-left: 700px;
+    padding-bottom: 7000px;
+}
